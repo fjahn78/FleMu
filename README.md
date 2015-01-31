@@ -1,11 +1,11 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+FleMu stands for 'FLExible MUsician' and is supposed to be a Social Network for musicians, bands, promoters, and anyone who wants to offer gigs, engagements, etc.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
+* Development of the webpage
+* Version 0.0.0.1
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
