@@ -1,2 +1,31 @@
 @CHARSET "UTF-8";
 
+#container {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+#headerwrap {
+	border: 1px solid cyan;
+}
+
+#head_left {
+	float: left;
+	border: 1px solid red;
+	height: 50px;
+}
+#head_center {
+	float: left;
+	border: 1px solid green;
+	height: 50px;
+}
+#head_right {
+/* 	float:left; */
+	border: 1px solid red;
+	height: 50px;
+}
+
+#contentwrap {
+	border: 1px solid black;
+	height: 500px;
+}
