@@ -1,6 +1,8 @@
 # README #
 
-FleMu stands for 'FLExible MUsician' and is supposed to be a Social Network for musicians, bands, promoters, and anyone who wants to offer gigs, engagements, etc.
+FleMu stands for 'FLExible MUsician' and is supposed to be a Social Network for
+musicians, bands, promoters, and anyone who wants to offer gigs, engagements,
+etc.
 
 ### What is this repository for? ###
 
