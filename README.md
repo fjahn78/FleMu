@@ -7,8 +7,7 @@ etc.
 ### What is this repository for? ###
 
 * Development of the webpage
-* Version 0.1
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Version 0.2
 
 ### Contribution guidelines ###
 

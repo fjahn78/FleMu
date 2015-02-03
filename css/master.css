@@ -1,5 +1,11 @@
 @CHARSET "UTF-8";
 
+body {
+	background-color: silver;
+	font-family: Open Sans;
+	font-size: 1.6em;
+}
+
 #container {
 	border: 1px solid black;
 	padding: 5px;
@@ -10,6 +16,8 @@
 #headerwrap {
 	border: 1px solid cyan;
 	padding: 2px;
+	width: 506px;
+	margin: 0 auto;
 	overflow: hidden;
 }
 
@@ -29,6 +37,7 @@
 	width: 400px;
 	text-align: center;
 	line-height: 50px;
+	font-family: Raleway;
 }
 
 #head_right {
@@ -51,7 +60,8 @@
 #showcase {
 	float: left;
 	border: 1px solid red;
-	width: 480px;
+	width: 537px;
+	height: 498px;
 	line-height: 50px;
 	margin: 0 3px 0 0;
 }
@@ -61,4 +71,5 @@
 	border: 1px solid blue;
 	line-height: 50px;
 	width: 250px;
+	height: 498px;
 }
