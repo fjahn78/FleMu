@@ -16,7 +16,7 @@ body {
 #headerwrap {
 	border: 1px solid cyan;
 	padding: 2px;
-	width: 506px;
+	width: 706px;
 	margin: 0 auto;
 	overflow: hidden;
 }
@@ -24,29 +24,29 @@ body {
 #head_left {
 	float: left;
 	border: 1px solid red;
-	height: 50px;
-	width: 50px;
+	height: 150px;
+	width: 150px;
 	text-align: center;
-	line-height: 50px;
+	line-height: 150px;
 }
 
 #head_center {
 	float: left;
 	border: 1px solid green;
-	height: 50px;
+	height: 150px;
 	width: 400px;
 	text-align: center;
-	line-height: 50px;
+	line-height: 150px;
 	font-family: Raleway;
 }
 
 #head_right {
 	float: left;
 	border: 1px solid red;
-	height: 50px;
-	width: 50px;
+	height: 150px;
+	width: 150px;
 	text-align: center;
-	line-height: 50px;
+	line-height: 150px;
 }
 
 #contentwrap {
