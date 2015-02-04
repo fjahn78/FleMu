@@ -7,7 +7,7 @@ etc.
 ### What is this repository for? ###
 
 * Development of the webpage
-* Version 0.2
+* Version 0.2.1
 
 ### Contribution guidelines ###
 
