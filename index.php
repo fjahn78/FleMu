@@ -17,7 +17,7 @@
 			<div id="head_right"><img src="images/logo.gif" alt="" width="150px" height="150px"/></div>
 		</div>
 		<div id="contentwrap">
-			<div id="showcase">some News here</div>
+			<div id="showcase"><?php echo "some News here" ?></div>
 			<div id="loginform">
 				Login <br /> Passwort
 			</div>
