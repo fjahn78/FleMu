@@ -2,77 +2,57 @@
 
 body {
 	background-color: silver;
-	font-family: Open Sans;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-size: 1.6em;
+	font-style: normal;
+	font-weight: 200;
 }
 
-#container {
-	border: 1px solid black;
-	padding: 5px;
-	width: 800px;
+#wrapper {
 	margin: 0 auto;
+	min-width: 720px;
+	max-width: 1000px;
 }
 
-#headerwrap {
-/* 	border: 1px solid cyan; */
-	padding: 2px;
-	width: 706px;
-	margin: 0 auto;
-	overflow: hidden;
-}
+#header {
 
-#head_left {
-	float: left;
-/* 	border: 1px solid red; */
-/* 	background-image: url("/images/logo.gif") */
-	height: 150px;
-	width: 150px;
-	text-align: center;
-	line-height: 150px;
-}
-
-#head_center {
-	float: left;
-/* 	border: 1px solid green; */
-	height: 150px;
-	width: 400px;
-	text-align: center;
-	line-height: 150px;
-	font-family: Raleway;
-	font-size: 2.5em;
-	font-style: italic;
-}
-
-#head_right {
-	float: left;
-/* 	border: 1px solid red; */
-	height: 150px;
-	width: 150px;
-	text-align: center;
-	line-height: 150px;
-}
-
-#contentwrap {
-	border: 1px solid magenta;
-	padding: 2px;
-	height: 500px;
-	margin-top: 2px;
-	overflow: hidden;
-}
-
-#showcase {
-	float: left;
-	border: 1px solid red;
-	width: 537px;
-	height: 498px;
-	line-height: 50px;
-	margin: 0 3px 0 0;
 }
 
 #loginform {
 	float: left;
-	border: 1px solid blue;
 	line-height: 50px;
-	width: 250px;
-	height: 498px;
+	width: 30%;
+}
+#logoart {
+	float: left;
+	width: 67%;
+}
+#contentwrap {
+	overflow-x: hidden;
+	overflow-y: hidden;
+
+}
+footer {
+	clear: left;
+}
+.centered {
+	margin-right: auto;
+	margin-left: auto;
+}
+.floatleft {
+	float: left;
+	margin-right: 10px;
+}
+.floatright {
+	margin-left: 10px;
+	float: right;
+}
+#header h1 {
+	text-align: center;
+	color: #FFFF00;
+	font-style: normal;
+	font-weight: 600;
+	font-family: source-sans-pro;
+	font-size: 75pt;
+
 }

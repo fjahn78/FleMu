@@ -1,27 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta charset="utf-8">
 <title>FleMu</title>
-<link
-	href='http://fonts.googleapis.com/css?family=Open+Sans|Raleway&amp;subset=latin,latin-ext'
-	rel='stylesheet' type='text/css' />
-<link rel="stylesheet" type="text/css" href="css/main.css" />
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/source-sans-pro:n6:default.js" type="text/javascript"></script>
 </head>
+
 <body>
-	<div id="container">
-		<div id="headerwrap">
-			<div id="head_left"><img src="images/logo.gif" alt="" width="150px" height="150px"/></div>
-			<div id="head_center"><strong>FleMu</strong></div>
-			<div id="head_right"><img src="images/logo.gif" alt="" width="150px" height="150px"/></div>
-		</div>
-		<div id="contentwrap">
-			<div id="showcase"><?php echo "some News here" ?></div>
-			<div id="loginform">
-				Login <br /> Passwort
-			</div>
-		</div>
-	</div>
+<div id="wrapper">
+  <header id="header">
+    <h1>FleMu</h1>
+  </header>
+  <div id="contentwrap">
+    <div id="logoart"><img src="images/logo.gif"  alt=""/></div>
+    <aside id="loginform">Raum für den Inhalt von  id "loginform"</aside>
+  </div>
+  <footer>Raum für den Inhalt des neuen footer-Tags</footer>
+</div>
 </body>
 </html>
