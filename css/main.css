@@ -6,14 +6,11 @@ body {
 	font-size: 1.6em;
 }
 
-#container {
-	border: 1px solid black;
-	padding: 5px;
-	width: 800px;
+#wrapper {
 	margin: 0 auto;
 }
 
-#headerwrap {
+#header {
 /* 	border: 1px solid cyan; */
 	padding: 2px;
 	width: 706px;
@@ -21,58 +18,17 @@ body {
 	overflow: hidden;
 }
 
-#head_left {
-	float: left;
-/* 	border: 1px solid red; */
-/* 	background-image: url("/images/logo.gif") */
-	height: 150px;
-	width: 150px;
-	text-align: center;
-	line-height: 150px;
-}
-
-#head_center {
-	float: left;
-/* 	border: 1px solid green; */
-	height: 150px;
-	width: 400px;
-	text-align: center;
-	line-height: 150px;
-	font-family: Raleway;
-	font-size: 2.5em;
-	font-style: italic;
-}
-
-#head_right {
-	float: left;
-/* 	border: 1px solid red; */
-	height: 150px;
-	width: 150px;
-	text-align: center;
-	line-height: 150px;
-}
-
-#contentwrap {
-	border: 1px solid magenta;
-	padding: 2px;
-	height: 500px;
-	margin-top: 2px;
-	overflow: hidden;
-}
-
-#showcase {
-	float: left;
-	border: 1px solid red;
-	width: 537px;
-	height: 498px;
-	line-height: 50px;
-	margin: 0 3px 0 0;
-}
-
 #loginform {
 	float: left;
-	border: 1px solid blue;
 	line-height: 50px;
-	width: 250px;
-	height: 498px;
+	width: 30%;
+}
+#logoart {
+	float: left;
+	width: 67%;
+}
+#contentwrap {
+	overflow-x: hidden;
+	overflow-y: hidden;
+
 }
