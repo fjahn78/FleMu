@@ -2,20 +2,20 @@
 
 body {
 	background-color: silver;
-	font-family: Open Sans;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-size: 1.6em;
+	font-style: normal;
+	font-weight: 200;
 }
 
 #wrapper {
 	margin: 0 auto;
+	min-width: 720px;
+	max-width: 1000px;
 }
 
 #header {
-/* 	border: 1px solid cyan; */
-	padding: 2px;
-	width: 706px;
-	margin: 0 auto;
-	overflow: hidden;
+
 }
 
 #loginform {
@@ -30,5 +30,29 @@ body {
 #contentwrap {
 	overflow-x: hidden;
 	overflow-y: hidden;
+
+}
+footer {
+	clear: left;
+}
+.centered {
+	margin-right: auto;
+	margin-left: auto;
+}
+.floatleft {
+	float: left;
+	margin-right: 10px;
+}
+.floatright {
+	margin-left: 10px;
+	float: right;
+}
+#header h1 {
+	text-align: center;
+	color: #FFFF00;
+	font-style: normal;
+	font-weight: 600;
+	font-family: source-sans-pro;
+	font-size: 75pt;
 
 }
